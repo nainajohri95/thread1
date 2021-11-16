@@ -1,0 +1,18 @@
+                                          Threading
+                extends                                         implemets
+                
+                class                                           interface
+                
+                thread------------------predefine---------------runnable
+                
+                multiple methods                                only single method
+                
+                run()                                           run()
+                start()
+                stop()
+                wait()
+                setName()
+                getName()
+                setPriority()
+                getPriority()
+                etc
